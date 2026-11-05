@@ -1,33 +1,33 @@
 {
-  "html_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/tag/v1.7.7",
-  "prerelease": false,
-  "tag_name": "v1.7.7",
+  "html_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/tag/v1.7.8",
+  "draft": false,
+  "tag_name": "v1.7.8",
+  "body": "Programas GG 1.7.8 — Botões da barra em preto e cinza, com texto claro e aba selecionada destacada. Preservados o fundo bolha, o mascote, a tabela ajustada e a atualização automática.\r\n",
   "assets": [
     {
       "name": "ProgramasGG-Atualizador.exe",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.7/ProgramasGG-Atualizador.exe",
-      "digest": "sha256:36feb00c223df401b4ddc57e8416085cc013009b909b659ee9d1a79d4d8da52b",
-      "size": 2770944
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.8/ProgramasGG-Atualizador.exe",
+      "digest": "sha256:66b1ebb69a8e6b38620d81189b64e39124095bccf3d6a167f0467333594231d2",
+      "size": 2771456
     },
     {
       "name": "ProgramasGG-Instalador.exe",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.7/ProgramasGG-Instalador.exe",
-      "digest": "sha256:8a6e5775c42c57cb6da1cf975ceb28a8f33ee3fc64dfdbe2fc5f7cf7da6d812c",
-      "size": 5506560
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.8/ProgramasGG-Instalador.exe",
+      "digest": "sha256:a2d26888525f55d2eb6b593c2713562e3d7e5abe26401e47402ffede7894ee71",
+      "size": 5507072
     },
     {
       "name": "resources.neu",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.7/resources.neu",
-      "digest": "sha256:17c5bbf249ddb589c93767f04350ecf2d2e66a32a081cd404e9afd8b2b5b820a",
-      "size": 2615455
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.8/resources.neu",
+      "digest": "sha256:9848533f24da38b40db10f7a7eabaaeed9a41470fb392c57ae647f83600e0e19",
+      "size": 2615608
     },
     {
       "name": "SHA256SUMS.txt",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.7/SHA256SUMS.txt",
-      "digest": "sha256:8aa859114d128e17ee6ec104958c851e8e57a1977fd6519607fdf866b8c7566c",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.8/SHA256SUMS.txt",
+      "digest": "sha256:dbb8e081e3ddd2b245664173bec28d17035e0134a404244795251d06924d7136",
       "size": 270
     }
   ],
-  "draft": false,
-  "body": "Programas GG 1.7.7 — Tabela de versões contida no painel, com largura adaptada e rolagem horizontal interna nas janelas menores. Todas as colunas, incluindo Visto em, continuam acessíveis. Preservados o mascote, o fundo e a atualização automática sem roubar foco.\r\n"
+  "prerelease": false
 }
