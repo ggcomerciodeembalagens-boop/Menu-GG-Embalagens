@@ -1,33 +1,33 @@
 {
-  "prerelease": false,
-  "html_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/tag/v1.7.3",
+  "tag_name": "v1.7.4",
+  "draft": false,
+  "body": "Programas GG 1.7.4\n\n- O cartão Guia de Pós-venda agora se chama apenas Guia.\n- Preservados os caminhos de abertura do aplicativo, o fundo e a atualização automática.\n",
+  "html_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/tag/v1.7.4",
   "assets": [
     {
       "name": "ProgramasGG-Atualizador.exe",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.3/ProgramasGG-Atualizador.exe",
-      "digest": "sha256:8e57cd4e3e94447f78f10c62be06b0fe66953952831e89f7ee0329481fab04d1",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.4/ProgramasGG-Atualizador.exe",
+      "digest": "sha256:37cc018a2c7733ba2387115a3104def87f89f2f16f601230f49e086ecaa96beb",
       "size": 2105856
     },
     {
       "name": "ProgramasGG-Instalador.exe",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.3/ProgramasGG-Instalador.exe",
-      "digest": "sha256:85c908efc7089ac581a6fd40a484fdca8d5f3e6c1d55766d2d0dc778f90fb7e1",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.4/ProgramasGG-Instalador.exe",
+      "digest": "sha256:194b90d560f511684d330453984f71d027b02bad56c1ebfbeb20c50ad32d7208",
       "size": 4841472
     },
     {
       "name": "resources.neu",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.3/resources.neu",
-      "digest": "sha256:a5f7ba5bd4ca063b6a080cf46cc5e3f88834efc212711ca6ec809d37937dd604",
-      "size": 1950304
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.4/resources.neu",
+      "digest": "sha256:8d4ba43268069d0d9d11da69699393557c56ad8bed8edc66642161eb5db42682",
+      "size": 1950341
     },
     {
       "name": "SHA256SUMS.txt",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.3/SHA256SUMS.txt",
-      "digest": "sha256:00b60eb809f5b4bb0f2d3526ce9e69775536f1959f99ce90b0e60a447e750e84",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.4/SHA256SUMS.txt",
+      "digest": "sha256:8c64c63b8af2defd0c5fbf5f6846497950fc55b5819316f2f1b4050e00cfc663",
       "size": 270
     }
   ],
-  "body": "Programas GG 1.7.3 — Atualização com o Menu aberto\n\n- Verifica versões novas a cada minuto enquanto o Menu estiver aberto.\n- Também consulta ao voltar para a janela ou recuperar a conexão.\n- Encontrando uma versão nova, baixa, confere, guarda backup, aplica e reabre automaticamente.\n- Consulta um manifesto público leve, evitando consumir a cota da API a cada verificação.\n- Preservado o fundo de plástico bolha.\n\nQuem ainda está na 1.7.1 ou 1.7.2 deve reabrir o Menu uma vez para receber esta versão\nagora, ou aguardar a consulta de uma hora dessas versões anteriores. A partir da 1.7.3,\nas próximas versões serão detectadas com o Menu já aberto, em aproximadamente um minuto,\nsujeito à conexão e à propagação do GitHub.\n",
-  "tag_name": "v1.7.3",
-  "draft": false
+  "prerelease": false
 }
