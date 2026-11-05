@@ -1,33 +1,33 @@
 {
-  "tag_name": "v1.7.4",
+  "html_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/tag/v1.7.5",
+  "body": "Programas GG 1.7.5 — Barra superior preta. Preservados o fundo bolha, o nome Guia e a atualização automática.\r\n",
+  "tag_name": "v1.7.5",
+  "prerelease": false,
   "draft": false,
-  "body": "Programas GG 1.7.4\n\n- O cartão Guia de Pós-venda agora se chama apenas Guia.\n- Preservados os caminhos de abertura do aplicativo, o fundo e a atualização automática.\n",
-  "html_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/tag/v1.7.4",
   "assets": [
     {
       "name": "ProgramasGG-Atualizador.exe",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.4/ProgramasGG-Atualizador.exe",
-      "digest": "sha256:37cc018a2c7733ba2387115a3104def87f89f2f16f601230f49e086ecaa96beb",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.5/ProgramasGG-Atualizador.exe",
+      "digest": "sha256:e2e481b74f735d257de0f39a93faf5febf86a58b83e650365ab212341db7e036",
       "size": 2105856
     },
     {
       "name": "ProgramasGG-Instalador.exe",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.4/ProgramasGG-Instalador.exe",
-      "digest": "sha256:194b90d560f511684d330453984f71d027b02bad56c1ebfbeb20c50ad32d7208",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.5/ProgramasGG-Instalador.exe",
+      "digest": "sha256:2d60a20173ff0f7a1eace0ea60ddd78bb5c6418588c8b01c0238ce7283d85467",
       "size": 4841472
     },
     {
       "name": "resources.neu",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.4/resources.neu",
-      "digest": "sha256:8d4ba43268069d0d9d11da69699393557c56ad8bed8edc66642161eb5db42682",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.5/resources.neu",
+      "digest": "sha256:3553a25585daf3972eb375c42a95458963adce9f14fc961e5857c9335752b28a",
       "size": 1950341
     },
     {
       "name": "SHA256SUMS.txt",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.4/SHA256SUMS.txt",
-      "digest": "sha256:8c64c63b8af2defd0c5fbf5f6846497950fc55b5819316f2f1b4050e00cfc663",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.5/SHA256SUMS.txt",
+      "digest": "sha256:da7f3bf739a24d7992771c1dde1cddfbf2a6a27a61362e053239d921e74aacdd",
       "size": 270
     }
-  ],
-  "prerelease": false
+  ]
 }
