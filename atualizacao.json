@@ -1,0 +1,33 @@
+{
+  "prerelease": false,
+  "html_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/tag/v1.7.3",
+  "assets": [
+    {
+      "name": "ProgramasGG-Atualizador.exe",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.3/ProgramasGG-Atualizador.exe",
+      "digest": "sha256:8e57cd4e3e94447f78f10c62be06b0fe66953952831e89f7ee0329481fab04d1",
+      "size": 2105856
+    },
+    {
+      "name": "ProgramasGG-Instalador.exe",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.3/ProgramasGG-Instalador.exe",
+      "digest": "sha256:85c908efc7089ac581a6fd40a484fdca8d5f3e6c1d55766d2d0dc778f90fb7e1",
+      "size": 4841472
+    },
+    {
+      "name": "resources.neu",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.3/resources.neu",
+      "digest": "sha256:a5f7ba5bd4ca063b6a080cf46cc5e3f88834efc212711ca6ec809d37937dd604",
+      "size": 1950304
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.3/SHA256SUMS.txt",
+      "digest": "sha256:00b60eb809f5b4bb0f2d3526ce9e69775536f1959f99ce90b0e60a447e750e84",
+      "size": 270
+    }
+  ],
+  "body": "Programas GG 1.7.3 — Atualização com o Menu aberto\n\n- Verifica versões novas a cada minuto enquanto o Menu estiver aberto.\n- Também consulta ao voltar para a janela ou recuperar a conexão.\n- Encontrando uma versão nova, baixa, confere, guarda backup, aplica e reabre automaticamente.\n- Consulta um manifesto público leve, evitando consumir a cota da API a cada verificação.\n- Preservado o fundo de plástico bolha.\n\nQuem ainda está na 1.7.1 ou 1.7.2 deve reabrir o Menu uma vez para receber esta versão\nagora, ou aguardar a consulta de uma hora dessas versões anteriores. A partir da 1.7.3,\nas próximas versões serão detectadas com o Menu já aberto, em aproximadamente um minuto,\nsujeito à conexão e à propagação do GitHub.\n",
+  "tag_name": "v1.7.3",
+  "draft": false
+}
