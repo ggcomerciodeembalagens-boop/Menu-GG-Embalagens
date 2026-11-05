@@ -1,33 +1,33 @@
 {
+  "body": "Programas GG 1.7.11 — Logo e restauração da janela\n\n- Logo atualizada da GG centralizada abaixo dos cartões, incluindo sua frase completa.\n- Depois de clicar para atualizar, o Menu reabre visível e em primeiro plano.\n- Resgata a janela se estiver minimizada ou posicionada fora da tela, sem precisar de Alt+Space.\n- Aguarda a interface ficar pronta antes de restaurar a janela.\n- Compatibilidade ao receber a versão por um atualizador anterior que abriu em segundo plano.\n- Preservados os ícones, a animação do Bolinha, o aviso de atualização por clique e o fundo bolha.\n",
   "assets": [
     {
       "name": "ProgramasGG-Atualizador.exe",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.10/ProgramasGG-Atualizador.exe",
-      "digest": "sha256:4078cef86fdb4d4f219c8828817ed46f6c478d68fa544626c3e04e6bca25e9e9",
-      "size": 2805248
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.11/ProgramasGG-Atualizador.exe",
+      "digest": "sha256:3f9c57a6faa000bb65027c43568c352a53060e8e087083cc039228a92da49ef3",
+      "size": 5616128
     },
     {
       "name": "ProgramasGG-Instalador.exe",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.10/ProgramasGG-Instalador.exe",
-      "digest": "sha256:0b127b873592bc2167e809b4ce768124b4abce382fd7c274fc1d0e2891c62152",
-      "size": 5540864
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.11/ProgramasGG-Instalador.exe",
+      "digest": "sha256:96d8eff42f9e559d9ebc70a0ae422e9487376f70e0ffc67429b86e1e3976c618",
+      "size": 8351744
     },
     {
       "name": "resources.neu",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.10/resources.neu",
-      "digest": "sha256:649a431f9d17d973ca0be2f5f2546e1108895f6b0ec8b70fffc03406cfa5fa88",
-      "size": 2649725
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.11/resources.neu",
+      "digest": "sha256:8cf6a71567eb41a0a6f5e01e55b14966a4163dbe57e654437480d0a39da5ce97",
+      "size": 5460262
     },
     {
       "name": "SHA256SUMS.txt",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.10/SHA256SUMS.txt",
-      "digest": "sha256:c7e9e5629a6f723720f24c7f4c2b66e4ad79958167c7deaa90b0c29cfdadfe0a",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.11/SHA256SUMS.txt",
+      "digest": "sha256:e84a9685f7ffb57c6a842a378180d827de3d7fe1205a18eef2ac11aa63e717d1",
       "size": 270
     }
   ],
-  "tag_name": "v1.7.10",
-  "prerelease": false,
+  "html_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/tag/v1.7.11",
   "draft": false,
-  "html_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/tag/v1.7.10",
-  "body": "Programas GG 1.7.10 — Bolinha apoiado nos cartões, igual ao Guia. Ao passar o mouse ou selecionar pelo teclado, muda para a expressão sorrindo. Ícones dos aplicativos preservados, com espaçamento adaptado para o mascote. Mantidos o aviso para atualizar por clique e a restauração da janela pelo relógio.\r\n"
+  "prerelease": false,
+  "tag_name": "v1.7.11"
 }
