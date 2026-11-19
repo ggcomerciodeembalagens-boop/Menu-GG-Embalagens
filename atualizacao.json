@@ -1,33 +1,33 @@
 {
-  "prerelease": false,
-  "draft": false,
   "assets": [
     {
       "name": "ProgramasGG-Atualizador.exe",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.13/ProgramasGG-Atualizador.exe",
-      "digest": "sha256:db0913e528b5d0346b060274d9fc666bfe1c07b16a7ce69107feafd7bc89fcc2",
-      "size": 6194688
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.14/ProgramasGG-Atualizador.exe",
+      "digest": "sha256:4a357c35a15b3eaed68116460e08af776ac41d2f0e02c8729ee4e0257db51a07",
+      "size": 8676864
     },
     {
       "name": "ProgramasGG-Instalador.exe",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.13/ProgramasGG-Instalador.exe",
-      "digest": "sha256:8382318d4d891071d8b15d38ea95c87b4b4f8d7ed295046793a155ddcdedb773",
-      "size": 8930304
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.14/ProgramasGG-Instalador.exe",
+      "digest": "sha256:88e52dfb677714bf2b19069692334d8b3536898fe1d8fa00578b7903a9a18370",
+      "size": 11412480
     },
     {
       "name": "resources.neu",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.13/resources.neu",
-      "digest": "sha256:3a56d0697ad41f85d4343cf6727c6d5a9ea4f8dde39dae086298238fc49ae46f",
-      "size": 6039144
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.14/resources.neu",
+      "digest": "sha256:0a2598d1ecd742f14403ad73c4085d3dd43704740a137b672ec53b1583172831",
+      "size": 8520949
     },
     {
       "name": "SHA256SUMS.txt",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.13/SHA256SUMS.txt",
-      "digest": "sha256:c27a7d7ed67061606ec3ac9fc4a0d11f13e07b10567fbf3a4fc249c0241914a1",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.14/SHA256SUMS.txt",
+      "digest": "sha256:b5fb0d7eccab86fcf5c39e54b1d2151001de55f18f24605628d14369a3183fd2",
       "size": 270
     }
   ],
-  "tag_name": "v1.7.13",
-  "body": "Substituídas a logo e o mascote separados da lateral pela nova imagem do Bolinha com a placa GG. Ajustado o tamanho da imagem para acompanhar o espaço lateral do Menu. Mantidos os ícones e as animações dos cartões.\r\n",
-  "html_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/tag/v1.7.13"
+  "prerelease": false,
+  "body": "Novos mascotes dos cartões do Menu GG: expressão normal e sorrindo ao passar o mouse ou navegar pelo teclado. Mantidos o tamanho e a posição sobre os cartões.\r\n",
+  "draft": false,
+  "html_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/tag/v1.7.14",
+  "tag_name": "v1.7.14"
 }
