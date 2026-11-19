@@ -1,33 +1,33 @@
 {
+  "tag_name": "v1.7.15",
+  "prerelease": false,
+  "draft": false,
+  "html_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/tag/v1.7.15",
+  "body": "Ajustada a posição dos mascotes: corpo atrás da borda do cartão, com cabeça e mãos aparecendo como se estivessem segurando o cartão. Mantidas as duas expressões.\r\n",
   "assets": [
     {
       "name": "ProgramasGG-Atualizador.exe",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.14/ProgramasGG-Atualizador.exe",
-      "digest": "sha256:4a357c35a15b3eaed68116460e08af776ac41d2f0e02c8729ee4e0257db51a07",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.15/ProgramasGG-Atualizador.exe",
+      "digest": "sha256:23a4e7f1bca2eb8ed12c508f40ff715520a1b1f6a4053e64a98e6ace26e9288f",
       "size": 8676864
     },
     {
       "name": "ProgramasGG-Instalador.exe",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.14/ProgramasGG-Instalador.exe",
-      "digest": "sha256:88e52dfb677714bf2b19069692334d8b3536898fe1d8fa00578b7903a9a18370",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.15/ProgramasGG-Instalador.exe",
+      "digest": "sha256:1c94b2af7fb6941a073cba9ba6a96921bea2b94bd9edc2740cbaec20b1aa4b70",
       "size": 11412480
     },
     {
       "name": "resources.neu",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.14/resources.neu",
-      "digest": "sha256:0a2598d1ecd742f14403ad73c4085d3dd43704740a137b672ec53b1583172831",
-      "size": 8520949
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.15/resources.neu",
+      "digest": "sha256:d324b2ff3d5c24545fd3ad6fdbde628c50f7d46889bef0e497f85421cc840aec",
+      "size": 8521188
     },
     {
       "name": "SHA256SUMS.txt",
-      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.14/SHA256SUMS.txt",
-      "digest": "sha256:b5fb0d7eccab86fcf5c39e54b1d2151001de55f18f24605628d14369a3183fd2",
+      "browser_download_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/download/v1.7.15/SHA256SUMS.txt",
+      "digest": "sha256:988a6896e6de8273e3d2d70ffe68595a605ba71a52c5dcca776d6e9c956c72a2",
       "size": 270
     }
-  ],
-  "prerelease": false,
-  "body": "Novos mascotes dos cartões do Menu GG: expressão normal e sorrindo ao passar o mouse ou navegar pelo teclado. Mantidos o tamanho e a posição sobre os cartões.\r\n",
-  "draft": false,
-  "html_url": "https://github.com/ggcomerciodeembalagens-boop/Menu-GG-Embalagens/releases/tag/v1.7.14",
-  "tag_name": "v1.7.14"
+  ]
 }
